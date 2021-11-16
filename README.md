@@ -17,7 +17,7 @@ This background color changing app was short and sweet to complete. Since I was 
 
 
 <hr>
-<img src="">
+<img src="https://github.com/yashksingh/Background-Color-Generator-2/blob/main/Wiki_Images/pexels-sharon-mccutcheon-1215831.jpg">
 <hr>
 
 ### New things learned or refreshed:
