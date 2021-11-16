@@ -39,5 +39,5 @@ This background color changing app was short and sweet to complete. Since I was 
 * JavaScript
 
 <hr>
-<img src="">
+<img src="https://github.com/yashksingh/Background-Color-Generator-2/blob/main/Wiki_Images/joyce-mccown-1Q4TjXPlrVQ-unsplash.jpg">
 <hr>
