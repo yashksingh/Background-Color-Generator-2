@@ -1,6 +1,5 @@
 # Background-Color-Generator-2
 
-# Background-Color-Generator
 
 This background color changing app was short and sweet to complete. Since I was given the HTML and CSS assets, all I had to do was create an array of different colors and then add a ‘click' event listener to the button. Once the button was clicked, a different background color would appear.
 
